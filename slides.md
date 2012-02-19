@@ -93,7 +93,7 @@
 
 !SLIDE bullets
 
-# Packaging
+# Library-oriented architecture
 
 !SLIDE bullets
 

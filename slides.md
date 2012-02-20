@@ -30,6 +30,10 @@
 
 # DevOps
 
+* Development and production
+* Developers and operators
+* &#8220;Individuals and interactions&#8221;
+
 !SLIDE bullets
 
 # DevOps
@@ -46,13 +50,13 @@
 # ...and measure it
 
 * Uptime
-* Reliability
+* Actionable metrics
 
 !SLIDE bullets
 
 # DevOps is cultural
 
-* Cross-functional
+* All-for-one not us-versus-them
 * Helpful
 * Trusting
 
@@ -65,6 +69,8 @@
 !SLIDE bullets
 
 # Automate everything
+
+* Never perform a manual<br />process a third time
 
 !SLIDE bullets
 
@@ -98,6 +104,8 @@
 !SLIDE bullets
 
 # Deployment
+
+* Practice makes perfect
 
 !SLIDE bullets
 
